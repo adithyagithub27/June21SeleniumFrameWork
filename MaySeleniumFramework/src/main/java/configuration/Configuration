@@ -1,0 +1,4 @@
+username=Admin
+password=admin123
+url=https://opensource-demo.orangehrmlive.com/
+driverpath=C:\\Users\\hp\\eclipse-workspace\\MaySeleniumFramework\\src\\main\\java\\drivers\\chromedriver.exe
